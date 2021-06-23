@@ -1,0 +1,2 @@
+*)Sua all duong link trong 2 project DOAN_WEBSITEBUONBANONLINE_NHATNGHIA_K13 va NhatNghiaAPIService thanh "localhost".
+*)Phải chạy NhatNghiaAPIService trước khi chạy DOAN_WEBSITEBUONBANONLINE_NHATNGHIA_K13
